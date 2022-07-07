@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-// const autenticate=require("../middlewares/autanticate")
 
 const productSchema = new mongoose.Schema(
   {
